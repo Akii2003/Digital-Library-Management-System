@@ -1,0 +1,18 @@
+🚀 3. How to Run the Program
+ Using Git
+Compile all the files using:
+javac managementSystem/*.java
+Run the program:
+java managementSystem.LibraryManage
+
+Use the menu to:
+Add books: Enter the ID, Title, Author, Genre, and Availability status.
+View all books: Display all books in the catalog.
+Search books: By ID or Title.
+Update book details.
+Delete a book.
+Exit the system.
+
+Using Jar File
+To run the program using the JAR file:
+java -jar DigitalLibraryManagement.jar
